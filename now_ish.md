@@ -1,4 +1,4 @@
-# Uni2Study - Privacy Policy
+# now-ish - Privacy Policy
 
 The app was not programmmed to have a connection to the internet.
 
